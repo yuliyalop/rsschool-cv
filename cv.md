@@ -5,4 +5,4 @@
 5. Unfortunately, I don’t have code examples  for now.
 6. As a doctor, I want to help people. So I’m interested in medical, ecological and other projects, that can improve people’s lives.
 7. I’ve graduated from Dentistry Faculty, Medical University, than I started to learn cs50 course, and after that raywanderlich Swift course for beginners.
-8. I’ve been to 29 countries, so I practice my English every time when I travel somewhere. In addition, I have english-speaking relatives in Great Britain, so I often contact with them and brush up my knowledge
+8. I’ve been to 29 countries, so I practice my English every time when I travel somewhere. In addition, I have english-speaking relatives in Great Britain, so I often contact with them and brush up my knowledge.
